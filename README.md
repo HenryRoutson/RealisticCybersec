@@ -5,13 +5,13 @@ The best free and open source (FOSS) software to be more digially secure.
 
 **Anonaddy**
 
-A service to create randomised proxy emails for each of your accounts, that can act as a second password, mask your real email, and allow you to detect phishing emails.
+A service to create randomised proxy emails for each of your accounts, that can act as a second password, mask your real email, and allow you to detect phishing.
 
 https://anonaddy.com/
 
 **Bitwarden**
 
-An open source password manager 
+Password manager
 
 https://bitwarden.com/
 
