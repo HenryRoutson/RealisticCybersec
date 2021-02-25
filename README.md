@@ -10,6 +10,7 @@ Free and open source (FOSS) software to be more digitally secure.
 A service to create randomised proxy emails for each of your accounts, that can act as a second password, mask your real email, and allow you to detect phishing.
 
 https://anonaddy.com/
+
 https://github.com/anonaddy
 
 **Bitwarden**
@@ -17,6 +18,7 @@ https://github.com/anonaddy
 Password manager
 
 https://bitwarden.com/
+
 https://github.com/bitwarden
 
 
@@ -25,6 +27,7 @@ https://github.com/bitwarden
 Encrypted email
 
 https://protonmail.com/
+
 https://github.com/ProtonMail
 
 **Firefox**
@@ -32,6 +35,7 @@ https://github.com/ProtonMail
 A privacy focused web browser
 
 https://www.mozilla.org/en-US/firefox/windows/
+
 https://github.com/topics/firefox
 
 **DuckDuckGo**
@@ -39,4 +43,5 @@ https://github.com/topics/firefox
 A privacy focused search engine
 
 https://duckduckgo.com/
+
 https://github.com/duckduckgo
