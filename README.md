@@ -1,6 +1,6 @@
 # RealisticCybersec
 
-The best free and open source (FOSS) software I use to be more digially secure
+The best free and open source (FOSS) software to be more digially secure.
 <br >
 
 **Anonaddy**
