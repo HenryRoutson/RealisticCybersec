@@ -11,7 +11,7 @@ A service to create randomised proxy emails for each of your accounts, that can 
 
 https://anonaddy.com/
 
-https://github.com/anonaddy
+Source https://github.com/anonaddy
 
 **Bitwarden**
 
@@ -19,7 +19,7 @@ Password manager
 
 https://bitwarden.com/
 
-https://github.com/bitwarden
+Source https://github.com/bitwarden
 
 
 **ProtonMail**
@@ -28,7 +28,7 @@ Encrypted email
 
 https://protonmail.com/
 
-https://github.com/ProtonMail
+Source https://github.com/ProtonMail
 
 **Firefox**
 
@@ -36,7 +36,7 @@ A privacy focused web browser
 
 https://www.mozilla.org/en-US/firefox/windows/
 
-https://github.com/topics/firefox
+Source https://github.com/topics/firefox
 
 **DuckDuckGo**
 
@@ -44,4 +44,4 @@ A privacy focused search engine
 
 https://duckduckgo.com/
 
-https://github.com/duckduckgo
+Source https://github.com/duckduckgo
