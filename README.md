@@ -1,6 +1,6 @@
 # RealisticCybersec
 
-Free and open source (FOSS) software to be more digially secure.
+Free and open source (FOSS) software to be more digitally secure.
 <br >
 <br >
 <br >
