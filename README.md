@@ -27,3 +27,9 @@ https://protonmail.com/
 A privacy focused web browser
 
 https://www.mozilla.org/en-US/firefox/windows/
+
+**DuckDuckGo**
+
+A privacy focused search engine
+
+https://duckduckgo.com/
