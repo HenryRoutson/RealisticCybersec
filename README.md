@@ -1,6 +1,6 @@
 # RealisticCybersec
 
-A collection of free and open source (FOSS) software to be more digitally secure.
+A collection of free and open source software to be more digitally secure.
 <br >
 <br >
 <br >
